@@ -6,11 +6,11 @@ My Personal Repository
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shobhitnair" alt="shobhitnair" /></a> </p>
 
-- 🔭 I’m currently working on Fullstack Project **RideShare**
+- 🔭 I’m currently working on Fullstack Project **Catalyst**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Fastapi**
 
-- 👯 I’m looking to work as **Mern Stack Developer**
+- 👯 I’m  **Mern Stack Developer**
 
 - 🤝 One of my best project is [Cozastore](https://github.com/ShobhitNair/cozastore_project)
 
